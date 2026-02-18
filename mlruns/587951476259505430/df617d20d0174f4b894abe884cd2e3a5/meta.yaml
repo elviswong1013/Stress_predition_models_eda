@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Documents/stress_corr_projects/Stress_predition/mlruns/587951476259505430/df617d20d0174f4b894abe884cd2e3a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '587951476259505430'
+lifecycle_stage: active
+run_id: df617d20d0174f4b894abe884cd2e3a5
+run_name: XGBoost
+run_uuid: df617d20d0174f4b894abe884cd2e3a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771343251915
+status: 1
+tags: []
+user_id: user

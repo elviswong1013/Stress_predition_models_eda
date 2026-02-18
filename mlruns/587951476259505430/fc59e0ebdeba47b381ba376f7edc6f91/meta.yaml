@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Documents/stress_corr_projects/Stress_predition/mlruns/587951476259505430/fc59e0ebdeba47b381ba376f7edc6f91/artifacts
+end_time: 1771346810973
+entry_point_name: ''
+experiment_id: '587951476259505430'
+lifecycle_stage: active
+run_id: fc59e0ebdeba47b381ba376f7edc6f91
+run_name: DNN_PyTorch
+run_uuid: fc59e0ebdeba47b381ba376f7edc6f91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771345950540
+status: 3
+tags: []
+user_id: user

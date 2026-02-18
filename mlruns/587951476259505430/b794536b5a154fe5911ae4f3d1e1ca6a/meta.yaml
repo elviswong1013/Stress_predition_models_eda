@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Documents/stress_corr_projects/Stress_predition/mlruns/587951476259505430/b794536b5a154fe5911ae4f3d1e1ca6a/artifacts
+end_time: 1771434131100
+entry_point_name: ''
+experiment_id: '587951476259505430'
+lifecycle_stage: active
+run_id: b794536b5a154fe5911ae4f3d1e1ca6a
+run_name: PDP
+run_uuid: b794536b5a154fe5911ae4f3d1e1ca6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771434131080
+status: 3
+tags: []
+user_id: user

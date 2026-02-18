@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Documents/stress_corr_projects/Stress_predition/mlruns/587951476259505430/70bc4701cd3349ec80245e28e0bcdcb2/artifacts
+end_time: 1771434097877
+entry_point_name: ''
+experiment_id: '587951476259505430'
+lifecycle_stage: active
+run_id: 70bc4701cd3349ec80245e28e0bcdcb2
+run_name: Ensemble
+run_uuid: 70bc4701cd3349ec80245e28e0bcdcb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771434097856
+status: 3
+tags: []
+user_id: user

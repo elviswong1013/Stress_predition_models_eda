@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Documents/stress_corr_projects/Stress_predition/mlruns/587951476259505430/260003ae9b5f4f02bdd4a9262464875d/artifacts
+end_time: 1771434142320
+entry_point_name: ''
+experiment_id: '587951476259505430'
+lifecycle_stage: active
+run_id: 260003ae9b5f4f02bdd4a9262464875d
+run_name: FeatureImportance
+run_uuid: 260003ae9b5f4f02bdd4a9262464875d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771434142301
+status: 3
+tags: []
+user_id: user

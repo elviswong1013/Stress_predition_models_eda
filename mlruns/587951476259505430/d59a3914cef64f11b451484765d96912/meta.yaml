@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Documents/stress_corr_projects/Stress_predition/mlruns/587951476259505430/d59a3914cef64f11b451484765d96912/artifacts
+end_time: 1771428219774
+entry_point_name: ''
+experiment_id: '587951476259505430'
+lifecycle_stage: active
+run_id: d59a3914cef64f11b451484765d96912
+run_name: GAM
+run_uuid: d59a3914cef64f11b451484765d96912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771427792224
+status: 3
+tags: []
+user_id: user

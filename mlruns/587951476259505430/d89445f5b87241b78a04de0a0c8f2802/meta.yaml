@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Documents/stress_corr_projects/Stress_predition/mlruns/587951476259505430/d89445f5b87241b78a04de0a0c8f2802/artifacts
+end_time: 1771419011597
+entry_point_name: ''
+experiment_id: '587951476259505430'
+lifecycle_stage: active
+run_id: d89445f5b87241b78a04de0a0c8f2802
+run_name: CatBoost
+run_uuid: d89445f5b87241b78a04de0a0c8f2802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771418830605
+status: 3
+tags: []
+user_id: user
